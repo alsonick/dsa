@@ -74,7 +74,7 @@ python 01_arrays/two_sum.py
 
 ## Progress
 
-- [ ] Arrays
+- [x] Arrays
 - [ ] Linked Lists
 - [ ] Recursion
 - [ ] Sorting
