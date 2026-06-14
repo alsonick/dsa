@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
         "consecutives"
-    ]
+    ],
+    "python-envs.defaultEnvManager": "ms-python.python:system"
 }
